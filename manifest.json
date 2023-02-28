@@ -1,0 +1,14 @@
+{
+    "short_name": "Giftr App",
+    "name": "PWA Giftr App",
+    "description": "An app that lets you save gift ideas",
+    "icons": [
+    ],
+
+    "orientation": "portrait-primary",
+    "display": "standalone",
+    "theme_color": "#7EB08F",
+    "background_color": "#D7E8D0",
+    "start_url": "/pwa-giftr/index.html"
+  }
+  

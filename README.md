@@ -1,4 +1,4 @@
-# Giftr App
+# PWA Giftr
 
 ## Overview
 Giftr is a progressive web app (PWA) designed for efficient gift tracking and idea generation, enabling users to create and manage gift lists for friends and family. The app emphasizes an offline-first approach, ensuring functionality even without an internet connection, and utilizes caching strategies for storing data locally.

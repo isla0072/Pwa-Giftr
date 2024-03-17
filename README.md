@@ -26,5 +26,4 @@ Developed as a midterm project for the FullStack: FrontEnd Development course.
 To use the app, simply visit the deployed URL. For development, clone the repository, and ensure you have a basic server setup to serve the app over HTTPS, as service workers require a secure context.
 
 ```bash
-git clone <repository-url>
-# Serve the app using your preferred HTTPS server setup
+git clone <https://github.com/isla0072/Pwa-Giftr>
